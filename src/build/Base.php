@@ -19,7 +19,7 @@ class Base {
 	public function __construct() {
 		$uid       = Config::get( 'cloud.uid' );
 		$secret    = Config::get( 'cloud.secret' );
-		$this->api = "http://store.hdcms.com?&secret={$secret}&uid={$uid}
+		$this->api = "http://www.hdcms.com?&secret={$secret}&uid={$uid}
 		&m=store&action=controller";
 	}
 
