@@ -1,7 +1,6 @@
 {
   "name": "houdunwang/cloud",
   "description": "后盾云接口用于实现短信、邮件发送等服务",
-  "type": "project",
   "keywords": [
     "houdunwang",
     "hdphp",
